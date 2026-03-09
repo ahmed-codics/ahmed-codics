@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [ahmedmansour.vercel.app](ahmedmansour.vercel.app)
 
-- 💬 Ask me about **ROS2, React, MERN stack, Python, C+, OpenCV**
+- 💬 Ask me about **ROS2, React, MERN stack, Python, C++, OpenCV**
 
 - 📫 How to reach me **ahmedismansour000@gmail.com**
 
