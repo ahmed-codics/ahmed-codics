@@ -7,8 +7,6 @@
 
 - 👯 I’m looking to collaborate on **Improving the Autonomous Car Logic**
 
-- 🤝 I’m looking for help with **Embedded Systems in the Car**
-
 - 👨‍💻 All of my projects are available at [ahmedmansour.vercel.app](ahmedmansour.vercel.app)
 
 - 💬 Ask me about **ROS2, React, MERN stack, Python, C+, OpenCV**
