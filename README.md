@@ -24,7 +24,7 @@ Founder of [**Kavvi**](https://kavvi.io), an AI learning platform with paying us
 - **AI engineering:** Python RAG service, multi-provider LLM routing, answer verification (each answer is solved twice and re-checked by a stronger model), about $0.09 of AI cost per learner
 - **Stack:** React PWA, Node/Express, Python FastAPI, MongoDB, Valkey/BullMQ, Docker Compose, Caddy, Playwright
 
-Source is private. Architecture notes and decisions: [kavvi-case-study](https://github.com/ahmed-codics/kavvi-case-study).
+The source is private. I'm happy to walk through the architecture and code on a call.
 
 ---
 
