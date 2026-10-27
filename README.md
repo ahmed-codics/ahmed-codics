@@ -1,68 +1,85 @@
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:2563eb&height=200&section=header&text=Ahmed%20Mansour&fontSize=48&fontColor=ffffff&fontAlignY=36&desc=Full-stack%20%26%20AI%20engineer%20%C2%B7%204%2B%20years%20shipping%20products&descSize=18&descAlignY=58&descColor=bfdbfe" width="100%" alt="Ahmed Mansour, full-stack and AI engineer"/>
+
 <div align="center">
 
-# Ahmed Mansour
+**I build complete products, from the first design to the first paying user.**
+Founder of [Kavvi](https://kavvi.io) · Cairo, Egypt · Open to remote work
 
-### Full-stack & AI engineer · 4+ years shipping products
-
-Founder of [**Kavvi**](https://kavvi.io), an AI learning platform with paying users. Based in Cairo, open to remote work.
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-ahmedmansour.vercel.app-2563EB?style=flat-square&logo=vercel&logoColor=white)](https://ahmedmansour.vercel.app)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-ahmed--mansour-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ahmed-mansour-430ab2341/)
-[![Email](https://img.shields.io/badge/Email-ahmedismansour000@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:ahmedismansour000@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-ahmedmansour.vercel.app-2563EB?style=for-the-badge&logo=vercel&logoColor=white)](https://ahmedmansour.vercel.app)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ahmed-mansour-430ab2341/)
+[![Email](https://img.shields.io/badge/Email-Say_hello-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ahmedismansour000@gmail.com)
 
 </div>
 
----
+<br/>
 
-## Featured: Kavvi
+## 🚀 Featured: Kavvi
 
-[**kavvi.io**](https://kavvi.io) turns a student's own lectures into taught lessons, and builds personal courses around any goal. I designed it, wrote every service, run production, and handle billing.
+<a href="https://kavvi.io"><img src="https://raw.githubusercontent.com/ahmed-codics/3D-portfolio/main/public/shots/kavvi.jpg" alt="Kavvi landing page" width="100%"/></a>
 
-- **458 sign-ups and 8+ paying subscribers** in the first five weeks, grown organically
-- **Kavvi Subjects:** lecture PDF to lessons and concepts, live voice-over synced to the PDF, follow-up chat, 3-question quizzes with retries, a mistake bank, flashcards and a smart study schedule
-- **Kavvi Courses:** type any goal, get a story-style course with one short episode a day, in English or Egyptian Arabic
-- **AI engineering:** Python RAG service, multi-provider LLM routing, answer verification (each answer is solved twice and re-checked by a stronger model), about $0.09 of AI cost per learner
-- **Stack:** React PWA, Node/Express, Python FastAPI, MongoDB, Valkey/BullMQ, Docker Compose, Caddy, Playwright
+<div align="center">
 
-The source is private. Architecture notes and decisions: [kavvi-case-study](https://github.com/ahmed-codics/kavvi-case-study).
+| 👥 **458** | 💳 **8+** | ⚡ **8,300+** | 💸 **~$0.09** |
+|:---:|:---:|:---:|:---:|
+| sign-ups in 5 weeks | paying subscribers | AI runs served | AI cost per learner |
 
----
+</div>
 
-## Experience
+**[kavvi.io](https://kavvi.io)** is an AI learning platform in Arabic and English that I designed, built and run alone.
 
-| When | What |
+- 📚 **Subjects:** a lecture PDF becomes taught lessons, with live voice-over synced to the page, a chat for follow-ups, quizzes, a mistake bank, flashcards and a study schedule
+- 🧭 **Courses:** type any goal and get a personal course, one short story-style episode a day
+- ✅ **Answer verification:** every answer is solved twice and re-checked by a stronger model
+- 🛠 **Under the hood:** Python RAG service, multi-provider LLM routing, billing, a Linux VPS with Docker, Playwright tests
+
+📖 [Read the architecture and decisions →](https://github.com/ahmed-codics/kavvi-case-study)
+
+<br/>
+
+## 🧰 Tech
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,nodejs,nestjs,express,python,fastapi&perline=9" alt="Languages and frameworks"/><br/>
+<img src="https://skillicons.dev/icons?i=postgres,mongodb,redis,prisma,docker,nginx,linux,git,github&perline=9" alt="Data and infrastructure"/>
+
+**AI:** LLM APIs · RAG · answer verification · cost control
+
+</div>
+
+<br/>
+
+## 🗂 Selected work
+
+| Project | What it is |
 |---|---|
-| 2025 - now | **Kavvi:** founder and full-stack engineer |
-| Jan - Sep 2026 | **Robotics Corner:** took six half-built products to working software on one shared database with single sign-on (HR/CRM, company website, ConnectedLabs, a robotics freelance marketplace) |
-| Oct 2022 - Dec 2024 | **Freelance full-stack developer:** [Bahrawy Academy](https://github.com/ahmed-codics/bahrawy) and a management system for a store |
-| May 2022 - Oct 2023 | **Memphis Express:** international shipment booking site and the office CRM |
+| [**kavvi-case-study**](https://github.com/ahmed-codics/kavvi-case-study) | How Kavvi works and why, with architecture and engineering decisions |
+| [**bahrawy**](https://github.com/ahmed-codics/bahrawy) | Arabic-first English-learning platform for a teacher: Next.js, NestJS, Prisma/PostgreSQL. Live at [el-bahrawy.com](https://el-bahrawy.com) |
+| [**3D-portfolio**](https://github.com/ahmed-codics/3D-portfolio) | My portfolio site: Vite, React, framer-motion, a canvas neural network |
+| [**videobrief**](https://github.com/ahmed-codics/videobrief) | Motion-graphics reel for Kavvi, built in React with Remotion |
+| [**sparkx**](https://github.com/ahmed-codics/sparkx) | ROS 2 autonomy workspace for a racing vehicle |
 
----
+<br/>
 
-## Selected public work
+## 🧭 Experience
 
-- [**bahrawy**](https://github.com/ahmed-codics/bahrawy): Arabic-first English-learning platform (Next.js, NestJS, Prisma/PostgreSQL), live at [el-bahrawy.com](https://el-bahrawy.com)
-- [**3D-portfolio**](https://github.com/ahmed-codics/3D-portfolio): my portfolio site (Vite, React, framer-motion)
-- [**videobrief**](https://github.com/ahmed-codics/videobrief): Remotion motion-graphics reel for Kavvi
-- [**sparkx**](https://github.com/ahmed-codics/sparkx): ROS 2 autonomy workspace for a racing vehicle
+```text
+2025 → now      Kavvi             Founder, full-stack & AI engineer
+Jan–Sep 2026    Robotics Corner   Took six half-built products to working software on one
+                                  shared database with single sign-on (HR/CRM, company
+                                  website, ConnectedLabs, a robotics marketplace)
+2022 → 2024     Freelance         Bahrawy Academy and a management system for a store
+2022 → 2023     Memphis Express   Shipment booking site and the office CRM
+```
 
----
+<br/>
 
-## Tech
+<div align="center">
 
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+### 🤝 Looking for a remote full-stack or AI engineering role where I can own real features end to end.
 
-**AI:** LLM APIs, RAG, answer verification, cost control · **Ops:** Docker Compose, Caddy, Nginx, Linux VPS, Playwright tests
+[**ahmedismansour000@gmail.com**](mailto:ahmedismansour000@gmail.com)
 
----
+</div>
 
-*Looking for a remote full-stack or AI engineering role where I can own real features end to end. [Say hello.](mailto:ahmedismansour000@gmail.com)*
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:2563eb&height=90&section=footer" width="100%" alt=""/>
