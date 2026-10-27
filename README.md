@@ -1,121 +1,68 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=2563EB&height=180&section=header&text=Ahmed%20Mansour&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Full-Stack%20Software%20Engineer&descAlignY=58&descColor=7eb3f5" width="100%"/>
+# Ahmed Mansour
 
-</div>
+### Full-stack & AI engineer · 4+ years shipping products
 
----
+Founder of [**Kavvi**](https://kavvi.io), an AI learning platform with paying users. Based in Cairo, open to remote work.
 
-<div align="center">
-
-### 💻 Shipping production full-stack systems: from database architecture to real-time frontends.
-
-**Software Engineer @ Robotics Corner** · **Founder — Clarix (SaaS)** · **Founder — Lumi (EdTech)**  
-*Cairo, Egypt* · *B.Sc. Mechatronics & Robotics Engineering — Helwan National University*
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-ahmed--mansour--430ab2341-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ahmed-mansour-430ab2341/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-ahmedmansour.vercel.app-2563EB?style=flat-square&logo=vercel&logoColor=white)](https://ahmedmansour.vercel.app)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-ahmed--mansour-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ahmed-mansour-430ab2341/)
 [![Email](https://img.shields.io/badge/Email-ahmedismansour000@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:ahmedismansour000@gmail.com)
 
 </div>
 
 ---
 
-## 🎯 What I ship
+## Featured: Kavvi
 
-Full-stack platforms: from schema design & database architecture to real-time subscriptions to pixel-perfect frontends. I own features end-to-end — architecture, implementation, deployment.
+[**kavvi.io**](https://kavvi.io) turns a student's own lectures into taught lessons, and builds personal courses around any goal. I designed it, wrote every service, run production, and handle billing.
 
-**Recent:** 6 production systems in 12 months. Marketplace platforms with escrow payments, enterprise ERP dashboards, AI-powered developer tooling, real-time collaboration systems.
+- **458 sign-ups and 8+ paying subscribers** in the first five weeks, grown organically
+- **Kavvi Subjects:** lecture PDF to lessons and concepts, live voice-over synced to the PDF, follow-up chat, 3-question quizzes with retries, a mistake bank, flashcards and a smart study schedule
+- **Kavvi Courses:** type any goal, get a story-style course with one short episode a day, in English or Egyptian Arabic
+- **AI engineering:** Python RAG service, multi-provider LLM routing, answer verification (each answer is solved twice and re-checked by a stronger model), about $0.09 of AI cost per learner
+- **Stack:** React PWA, Node/Express, Python FastAPI, MongoDB, Valkey/BullMQ, Docker Compose, Caddy, Playwright
+
+Source is private. Architecture notes and decisions: [kavvi-case-study](https://github.com/ahmed-codics/kavvi-case-study).
 
 ---
 
-## ⚡ Core Tech Stack
+## Experience
 
-**Frontend**
+| When | What |
+|---|---|
+| 2025 - now | **Kavvi:** founder and full-stack engineer |
+| Jan - Sep 2026 | **Robotics Corner:** took six half-built products to working software on one shared database with single sign-on (HR/CRM, company website, ConnectedLabs, a robotics freelance marketplace) |
+| Oct 2022 - Dec 2024 | **Freelance full-stack developer:** [Bahrawy Academy](https://github.com/ahmed-codics/bahrawy) and a management system for a store |
+| May 2022 - Oct 2023 | **Memphis Express:** international shipment booking site and the office CRM |
 
+---
+
+## Selected public work
+
+- [**bahrawy**](https://github.com/ahmed-codics/bahrawy): Arabic-first English-learning platform (Next.js, NestJS, Prisma/PostgreSQL), live at [el-bahrawy.com](https://el-bahrawy.com)
+- [**3D-portfolio**](https://github.com/ahmed-codics/3D-portfolio): my portfolio site (Vite, React, framer-motion)
+- [**videobrief**](https://github.com/ahmed-codics/videobrief): Remotion motion-graphics reel for Kavvi
+- [**sparkx**](https://github.com/ahmed-codics/sparkx): ROS 2 autonomy workspace for a racing vehicle
+
+---
+
+## Tech
+
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
-![Shadcn UI](https://img.shields.io/badge/Shadcn/ui-000000?style=flat-square)
-
-**Backend & Infrastructure**
-
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white)
 
-**Development & DevOps**
-
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![Claude](https://img.shields.io/badge/Claude-AI--First%20Dev-000000?style=flat-square)
+**AI:** LLM APIs, RAG, answer verification, cost control · **Ops:** Docker Compose, Caddy, Nginx, Linux VPS, Playwright tests
 
 ---
 
-## 🚀 Flagship Projects
-
-### 💰 [RoboConnect Hub — Marketplace Platform](https://github.com/ahmed-codics)
-> Full-stack dual-role marketplace with 17-table PostgreSQL schema, Row-Level Security policies for multi-tenant data isolation, Paymob-integrated escrow payments, and real-time job chat via Supabase subscriptions.
-
-**Impact:** Went from concept to production-ready in 6 weeks. Handles transaction fees, secure release workflows, and live client-freelancer communication.
-
-`React 18` `TypeScript` `Supabase` `PostgreSQL` `Tailwind` `Paymob API` `Real-time Subscriptions`
-
----
-
-### 🏢 [RoboTalent — Enterprise Operations ERP](https://github.com/ahmed-codics)
-> Full-stack operations platform with role-based access control (Admin, Sales, Coordination, Instructors), complex financial & HR logic, lead pipeline automation, and AI-assisted workflows.
-
-**Impact:** Handles 100+ concurrent operations staff. Fixed multi-month vacation balance bugs and implemented admin verification for compliance.
-
-`React` `Express.js` `SQLite` `Tailwind CSS` `Node.js` `MCP Integration`
-
----
-
-### 🤖 [RoboAgent — AI Developer IDE](https://github.com/ahmed-codics)
-> Extended VS Code core + Electron to embed local AI coding agents natively. Built custom CLI bridges, modular permission systems, ESLint plugins, and static analysis integration for automated development workflows.
-
-**Impact:** Enables agentic coding loops inside the IDE. Used daily in production development.
-
-`Electron` `TypeScript` `Node.js` `VS Code` `Custom Extensions`
-
----
-
-### 🧠 [ED — RAG Chatbot](https://github.com/ahmed-codics)
-> Multi-service RAG architecture: Node.js API gateway + FastAPI microservices + LlamaIndex document retrieval. 45% latency improvement over naive LLM prompting.
-
-`Node.js` `FastAPI` `Python` `LlamaIndex` `React PWA` `Docker`
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-![Ahmed's GitHub stats](https://github-readme-stats.vercel.app/api?username=ahmed-codics&show_icons=true&theme=github_dark&hide_border=true&title_color=2563EB&icon_color=2563EB&bg_color=0d1117)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ahmed-codics&layout=compact&theme=github_dark&hide_border=true&title_color=2563EB&bg_color=0d1117)
-
-</div>
-
----
-
-## 🌍 Languages
-
-`Arabic — Native` · `English — C1/Fluent` · `German — B1` · `French — A2`
-
----
-
-<div align="center">
-
-*Currently shipping full-stack SaaS products, exploring AI-native development workflows, and building autonomous systems that actually scale.*
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=2563EB&height=100&section=footer" width="100%"/>
-
-</div>
+*Looking for a remote full-stack or AI engineering role where I can own real features end to end. [Say hello.](mailto:ahmedismansour000@gmail.com)*
