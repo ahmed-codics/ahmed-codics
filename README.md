@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:2563eb&height=200&section=header&text=Ahmed%20Mansour&fontSize=48&fontColor=ffffff&fontAlignY=36&desc=Full-stack%20%26%20AI%20engineer%20%C2%B7%204%2B%20years%20shipping%20products&descSize=18&descAlignY=58&descColor=bfdbfe" width="100%" alt="Ahmed Mansour, full-stack and AI engineer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=2563EB&height=180&section=header&text=Ahmed%20Mansour&fontSize=44&fontColor=ffffff&fontAlignY=38&desc=Full-stack%20and%20AI%20engineer&descAlignY=58&descColor=dbeafe" width="100%" alt="Ahmed Mansour, full-stack and AI engineer"/>
 
 <div align="center">
 
@@ -82,4 +82,4 @@ Jan–Sep 2026    Robotics Corner   Took six half-built products to working soft
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:2563eb&height=90&section=footer" width="100%" alt=""/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=2563EB&height=90&section=footer" width="100%" alt=""/>
